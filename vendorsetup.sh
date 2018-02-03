@@ -1,0 +1,2 @@
+add_lunch_combo aosp_scorpio-userdebug
+add_lunch_combo aosp_scorpio-eng
