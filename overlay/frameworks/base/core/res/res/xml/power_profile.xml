@@ -124,6 +124,6 @@
         <value>591</value>
         <value>684</value>
     </array>
-    <item name="cpu.idle">8</item>
-    <item name="cpu.awake">25</item>
+    <item name="cpu.idle">4.5</item>
+    <item name="cpu.awake">12</item>
 </device>
