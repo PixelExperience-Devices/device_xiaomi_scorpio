@@ -3,7 +3,7 @@ $(call inherit-product, device/xiaomi/scorpio/full_scorpio.mk)
 # Inherit some common AOSP stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-TARGET_ARCH := arm64
+TARGET_GAPPS_ARCH := arm64
 TARGET_DENSITY := xxhdpi
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_ARCORE := true
