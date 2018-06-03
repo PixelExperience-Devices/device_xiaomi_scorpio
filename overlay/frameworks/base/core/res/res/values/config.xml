@@ -134,8 +134,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareKeys">83</integer>
 
-    <!-- Backlight brightness -->
-    <integer name="config_buttonBrightnessSettingDefault">255</integer>
-    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+    <!-- Button backlight -->
+    <bool name="config_button_brightness_support">true</bool>
 
 </resources>
