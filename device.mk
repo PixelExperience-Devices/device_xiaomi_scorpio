@@ -26,7 +26,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Permissions
 PRODUCT_COPY_FILES += \
-    frameworks/native/data/etc/android.hardware.consumerir.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.consumerir.xml
+    frameworks/native/data/etc/android.hardware.consumerir.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.consumerir.xml \
+    $(LOCAL_PATH)/configs/com.google.android.Pixel2ModX.xml:system/etc/permissions/com.google.android.Pixel2ModX.xml
 
 # ARCore
 PRODUCT_PACKAGES += \
