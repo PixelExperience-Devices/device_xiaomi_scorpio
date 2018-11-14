@@ -2,18 +2,18 @@
   {
     "repository":  "device_xiaomi_msm8996-common",
     "target_path": "device/xiaomi/msm8996-common",
-    "branch":      "oreo-mr1-scolit"
+    "branch":      "pie-scolit"
   },
   {
     "remote":      "github",
     "repository":  "PsyMan47/kernel_xiaomi_msm8996",
     "target_path": "kernel/xiaomi/msm8996",
-    "branch":      "O-MR1"
+    "branch":      "P"
   },
   {
     "remote":      "github",
     "repository":  "PsyMan47/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch":      "O-MR1"
+    "branch":      "P"
   }
 ]
