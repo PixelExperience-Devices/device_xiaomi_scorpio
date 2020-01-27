@@ -1,1 +1,1 @@
-require version-modem=2018-08-02 23:14:42,8.8.30
+require version-modem=2019-10-23 05:59:08,V11.0.2.0.OADMIXM
